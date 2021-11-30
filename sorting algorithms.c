@@ -3,9 +3,9 @@
 #include <time.h>
 #include <stdbool.h>
 
-#define SMALL_ARRAY 1000
-#define MEDIUM_ARRAY 10000
-#define LARGE_ARRAY 100000
+#define SMALL_ARRAY 10000
+#define MEDIUM_ARRAY 100000
+#define LARGE_ARRAY 500000
 
 void swap(int *xp, int *yp)
 {
